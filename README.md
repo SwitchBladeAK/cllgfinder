@@ -39,5 +39,5 @@ Make sure you have the following installed:
 1. **Fork** the `cllgfinder` repository to your GitHub account.
 2. **Clone** the forked repository to your local machine:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/](https://github.com/SwitchBladeAK/cllgfinder.git
    cd cllgfinder
